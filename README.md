@@ -11,7 +11,15 @@ I have worked in many types of school with many pupils who have been excluded fr
 
 Bear in mind, this is not a replacement for hands on, face-to-face learning, but an aid.
 
-You can find more of this, here: 
+You can find more of this, here: https://github.com/tobyStone/Maths-inCoding-Website-Server
+
+I am also currently 'fully in' on AI, and several repositories will appear next on this subject, in Python and Pytorch.
+
+Previously, I have rather loved C++ (thanks, in no small part, to Bjarne Stroustrup's dryly witty writing), and am a member of ACCU.
+
+Here are some C++ projects...
+
+
 
 <!--
 **tobyStone/tobyStone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
