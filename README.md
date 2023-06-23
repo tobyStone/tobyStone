@@ -19,6 +19,18 @@ Previously, I have rather loved C++ (thanks, in no small part, to Bjarne Stroust
 
 Here are some C++ projects...
 
+RPG-BOT, a pop up roleplaying game chatbot...
+
+
+![](screenshotRPG-BOT.JPG)
+
+
+That's Add-Surd, an irrational numbers game...
+
+![That's Add-Surd](https://user-images.githubusercontent.com/40922682/114428960-ba7b6680-9bb4-11eb-91f3-eed0a35d884a.JPG)
+
+
+
 
 
 <!--
