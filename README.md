@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+![](https://github.com/tobyStone/Maths-inCoding-Website-Server/blob/main/gif_folder/front%20page%20maths%20inCoding.gif)
 
 <!--
 **tobyStone/tobyStone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
